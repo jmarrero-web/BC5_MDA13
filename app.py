@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Javier Marrero Viera
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL Streamlit Cloud: https://bc5mda13-cxi6qeiqkau5awethzqcrk.streamlit.app/
+# URL GitHub: https://github.com/jmarrero-web/BC5_MDA13
 
 # ============================================================
 # IMPORTS
